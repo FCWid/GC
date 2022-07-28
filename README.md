@@ -1,8 +1,6 @@
 GLPI entityCategory Plugin
 =========================
 
-By Probesys: https://probesys.com
-
 Language: french
 
 Works with: GLPI 9.5.X ( tested with 9.5.1 )
